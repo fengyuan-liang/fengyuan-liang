@@ -13,7 +13,7 @@ Here are some quick things about me:
 - ⚡ Coding is my passion.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fengyuan-liang&theme=github)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fengyuan-liang&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fengyuan-liang&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fengyuan-liang&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fengyuan-liang&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fengyuan-liang&theme=github)
