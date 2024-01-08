@@ -9,7 +9,7 @@
 Here are some quick things about me:
 
 - 🔭 I'm just a rookie in here.
-- 📫 The best way to reach me is sending me an email.
+- 📫 The best way to reach me is sending me an email -> <liangfengyuan1024@gmail.com>.
 - ⚡ Coding is my passion.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fengyuan-liang&theme=github)
