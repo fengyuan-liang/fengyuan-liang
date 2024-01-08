@@ -1,4 +1,4 @@
-<img align="right" width="150px" src="https://cdn.fengxianhub.top/resources-master/golangroutines.png">
+<img align="right" width="150px" src="./golangroutines.png">
 
 ### Hi there 👋
 
